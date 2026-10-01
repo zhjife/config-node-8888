@@ -1,1 +1,1 @@
-https://myfengsite.ccwu.cc/sub?token=53e66d700693beda29b381662f7d9817
+vless://d9f20a29-239e-46ab-82bb-fa0d69e480f9@myfengsite.ccwu.cc:443?security=tls&type=ws&host=myfengsite.ccwu.cc&fp=chrome&sni=myfengsite.ccwu.cc&path=%2F&encryption=none#edgetunnel
